@@ -1,0 +1,29 @@
+commit 3f383a2202221230d1cf0c8775dfaff9bac17a94
+Author: Robert <robert_spitzer@hotmail.com>
+Date:   Tue Oct 9 14:21:45 2018 +0200
+
+    deleted line
+
+commit df05fc2447cf9b1568052c35b11889fab3f43124
+Author: Robert <robert_spitzer@hotmail.com>
+Date:   Tue Oct 9 14:18:55 2018 +0200
+
+    yet another commit
+
+commit 19f4be2779a64d1e7be6f651f27aa842a349a2ec
+Author: Robert <robert_spitzer@hotmail.com>
+Date:   Tue Oct 9 14:11:57 2018 +0200
+
+    moon question
+
+commit 42ec0cae9b2a687b7673c4e564c590dc6052ad29
+Author: Robert <robert_spitzer@hotmail.com>
+Date:   Tue Oct 9 14:10:10 2018 +0200
+
+    added stuff about base
+
+commit 5d9242d14ddfebffb76b7b98d5ec0ba84a905ee0
+Author: Robert <robert_spitzer@hotmail.com>
+Date:   Tue Oct 9 13:59:02 2018 +0200
+
+    Created the file mars.txt
